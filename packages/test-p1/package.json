@@ -4,7 +4,7 @@
   "description": "this is the 1 of the project",
   "main": "index.js",
   "dependencies": {
-    "test-lib1": "^0.0.4",
+    "test-lib1": "^0.0.6",
     "lodash": "^4.17.10"
   }
 }
