@@ -1,0 +1,6 @@
+node_modules
+xeno
+**/dist
+*.log
+.DS_Store
+**/.env

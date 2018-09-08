@@ -1,0 +1,10 @@
+{
+  "name": "test-p1",
+  "version": "0.0.1",
+  "description": "this is the 1 of the project",
+  "main": "index.js",
+  "dependencies": {
+    "test-lib1": "^0.0.4",
+    "lodash": "^4.17.10"
+  }
+}
