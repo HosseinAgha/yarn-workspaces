@@ -1,5 +1,6 @@
 {
   "name": "test-p2",
+  "version": "0.0.1",
   "private": true,
   "description": "this is a private project without version",
   "main": "index.js",

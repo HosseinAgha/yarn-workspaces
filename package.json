@@ -1,7 +1,8 @@
 {
+  "name": "yarn-workspaces",
   "private": true,
   "devDependencies": {
-    "lerna": "^3.2.1"
+    "lerna": "^3.4.3"
   },
   "workspaces": [
     "packages/*"
