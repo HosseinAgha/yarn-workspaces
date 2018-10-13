@@ -1,6 +1,6 @@
 {
   "name": "test-p1",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "this is the 1 of the project",
   "main": "index.js",
   "dependencies": {

@@ -1,6 +1,6 @@
 {
   "name": "test-lib1",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "this is the first version 7 of this awesome library",
   "main": "index.js",
   "dependencies": {
